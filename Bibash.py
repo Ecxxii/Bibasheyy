@@ -123,7 +123,7 @@ def sarfraz():
     print(f'[9] Remove Duplicate IDs')
     print(f'[W] Join Whatsapp Group ')
     print(f'[F] Join Facebook Group ')
-    print(''f)Sex kardunga patta vi nahi chalgeaa
+    print(''f)
     select = input('Select Menu>: ')
     if select =='1':
         method_crack()
