@@ -89,9 +89,9 @@ logo =                                          """
                                                
                                                
 \033[1;37m------------------------------------------------
-\033[1;37m Owner   :               Bibash pandeyy
+\033[1;37m Owner   :            Bibash pandeyy
 \033[1;37m Facebook:            Th'w Bibash
-\033[1;37m Github  :                 Eccxxi
+\033[1;37m Github  :            Eccxxi
 \033[1;37m Version :            19.8
 \033[1;37m------------------------------------------------ """
 def clear():
